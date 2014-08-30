@@ -1,0 +1,1 @@
+javascript:var a = document,b = 'getElementById',c = a[b]('lbt'),d = a[b]('xac');c.click();d.click();
